@@ -11,6 +11,17 @@
 		83D908712A697887008347D6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D908702A697887008347D6 /* ContentView.swift */; };
 		83D908732A69788A008347D6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83D908722A69788A008347D6 /* Assets.xcassets */; };
 		83D908762A69788A008347D6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 83D908752A69788A008347D6 /* Preview Assets.xcassets */; };
+		83D9087E2A6978CF008347D6 /* QuoteController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D9087D2A6978CF008347D6 /* QuoteController.swift */; };
+		83D908812A697AB9008347D6 /* Quote.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D908802A697AB9008347D6 /* Quote.swift */; };
+		83D908842A697C54008347D6 /* QuoteViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D908832A697C54008347D6 /* QuoteViewModel.swift */; };
+		83D908872A69B0F9008347D6 /* CharacterCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D908862A69B0F9008347D6 /* CharacterCardView.swift */; };
+		83D9088A2A69B526008347D6 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D908892A69B526008347D6 /* Constants.swift */; };
+		83D908912A69CBC3008347D6 /* characters.json in Resources */ = {isa = PBXBuildFile; fileRef = 83D908902A69CBC3008347D6 /* characters.json */; };
+		83D908932A69D4D2008347D6 /* Character.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D908922A69D4D2008347D6 /* Character.swift */; };
+		83D908952A69E2B5008347D6 /* CharacterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D908942A69E2B5008347D6 /* CharacterView.swift */; };
+		83D908992A69E406008347D6 /* CharacterDetailRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D908982A69E406008347D6 /* CharacterDetailRowView.swift */; };
+		83D9089C2A6AD1AB008347D6 /* CharacterQuoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D9089B2A6AD1AB008347D6 /* CharacterQuoteView.swift */; };
+		83D9089E2A6AEF18008347D6 /* CharacterGuessQuoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D9089D2A6AEF18008347D6 /* CharacterGuessQuoteView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +30,17 @@
 		83D908702A697887008347D6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		83D908722A69788A008347D6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		83D908752A69788A008347D6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		83D9087D2A6978CF008347D6 /* QuoteController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteController.swift; sourceTree = "<group>"; };
+		83D908802A697AB9008347D6 /* Quote.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quote.swift; sourceTree = "<group>"; };
+		83D908832A697C54008347D6 /* QuoteViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteViewModel.swift; sourceTree = "<group>"; };
+		83D908862A69B0F9008347D6 /* CharacterCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterCardView.swift; sourceTree = "<group>"; };
+		83D908892A69B526008347D6 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		83D908902A69CBC3008347D6 /* characters.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = characters.json; sourceTree = "<group>"; };
+		83D908922A69D4D2008347D6 /* Character.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Character.swift; sourceTree = "<group>"; };
+		83D908942A69E2B5008347D6 /* CharacterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterView.swift; sourceTree = "<group>"; };
+		83D908982A69E406008347D6 /* CharacterDetailRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterDetailRowView.swift; sourceTree = "<group>"; };
+		83D9089B2A6AD1AB008347D6 /* CharacterQuoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterQuoteView.swift; sourceTree = "<group>"; };
+		83D9089D2A6AEF18008347D6 /* CharacterGuessQuoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CharacterGuessQuoteView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +73,13 @@
 		83D9086D2A697887008347D6 /* OfficeQuoteGenerator */ = {
 			isa = PBXGroup;
 			children = (
-				83D9086E2A697887008347D6 /* OfficeQuoteGeneratorApp.swift */,
-				83D908702A697887008347D6 /* ContentView.swift */,
+				83D908962A69E3C3008347D6 /* App */,
+				83D9088B2A69C91D008347D6 /* Data */,
+				83D908882A69B50A008347D6 /* Utility */,
+				83D908852A69B0E3008347D6 /* View */,
+				83D908822A697C37008347D6 /* View Model */,
+				83D9087F2A697AAA008347D6 /* Model */,
+				83D9087C2A6978AC008347D6 /* Controller */,
 				83D908722A69788A008347D6 /* Assets.xcassets */,
 				83D908742A69788A008347D6 /* Preview Content */,
 			);
@@ -65,6 +92,84 @@
 				83D908752A69788A008347D6 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		83D9087C2A6978AC008347D6 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				83D9087D2A6978CF008347D6 /* QuoteController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		83D9087F2A697AAA008347D6 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				83D908802A697AB9008347D6 /* Quote.swift */,
+				83D908922A69D4D2008347D6 /* Character.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		83D908822A697C37008347D6 /* View Model */ = {
+			isa = PBXGroup;
+			children = (
+				83D908832A697C54008347D6 /* QuoteViewModel.swift */,
+			);
+			path = "View Model";
+			sourceTree = "<group>";
+		};
+		83D908852A69B0E3008347D6 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				83D9089A2A6AD194008347D6 /* Home */,
+				83D908972A69E3DC008347D6 /* Character */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		83D908882A69B50A008347D6 /* Utility */ = {
+			isa = PBXGroup;
+			children = (
+				83D908892A69B526008347D6 /* Constants.swift */,
+			);
+			path = Utility;
+			sourceTree = "<group>";
+		};
+		83D9088B2A69C91D008347D6 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				83D908902A69CBC3008347D6 /* characters.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		83D908962A69E3C3008347D6 /* App */ = {
+			isa = PBXGroup;
+			children = (
+				83D908942A69E2B5008347D6 /* CharacterView.swift */,
+				83D9086E2A697887008347D6 /* OfficeQuoteGeneratorApp.swift */,
+				83D908702A697887008347D6 /* ContentView.swift */,
+			);
+			path = App;
+			sourceTree = "<group>";
+		};
+		83D908972A69E3DC008347D6 /* Character */ = {
+			isa = PBXGroup;
+			children = (
+				83D908862A69B0F9008347D6 /* CharacterCardView.swift */,
+				83D908982A69E406008347D6 /* CharacterDetailRowView.swift */,
+			);
+			path = Character;
+			sourceTree = "<group>";
+		};
+		83D9089A2A6AD194008347D6 /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				83D9089B2A6AD1AB008347D6 /* CharacterQuoteView.swift */,
+				83D9089D2A6AEF18008347D6 /* CharacterGuessQuoteView.swift */,
+			);
+			path = Home;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,6 +230,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83D908912A69CBC3008347D6 /* characters.json in Resources */,
 				83D908762A69788A008347D6 /* Preview Assets.xcassets in Resources */,
 				83D908732A69788A008347D6 /* Assets.xcassets in Resources */,
 			);
@@ -137,8 +243,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				83D908872A69B0F9008347D6 /* CharacterCardView.swift in Sources */,
+				83D908812A697AB9008347D6 /* Quote.swift in Sources */,
+				83D908842A697C54008347D6 /* QuoteViewModel.swift in Sources */,
+				83D9087E2A6978CF008347D6 /* QuoteController.swift in Sources */,
+				83D9088A2A69B526008347D6 /* Constants.swift in Sources */,
+				83D9089E2A6AEF18008347D6 /* CharacterGuessQuoteView.swift in Sources */,
+				83D9089C2A6AD1AB008347D6 /* CharacterQuoteView.swift in Sources */,
 				83D908712A697887008347D6 /* ContentView.swift in Sources */,
+				83D908992A69E406008347D6 /* CharacterDetailRowView.swift in Sources */,
+				83D908952A69E2B5008347D6 /* CharacterView.swift in Sources */,
 				83D9086F2A697887008347D6 /* OfficeQuoteGeneratorApp.swift in Sources */,
+				83D908932A69D4D2008347D6 /* Character.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -275,6 +391,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -304,6 +421,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 16.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

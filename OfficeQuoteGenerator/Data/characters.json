@@ -1,0 +1,92 @@
+[
+ {
+     "character": "Michael Scott",
+     "age": "40",
+     "aliases": ["Michael Scarn", "Date Night Mike", "Prison Mike", "Beyonce", "Ryan's Girlfriend"],
+     "occupation": "Regional Manager",
+     "description": "Michael Gary Scott (born March 15, 1965) is the main character of the series, serving as the Regional Manager of the Scranton branch of a paper distribution company, known as Dunder Mifflin Inc. from seasons 1–7. However, he temporarily leaves Dunder Mifflin to form The Michael Scott Paper Company with Pam Beesly and Ryan Howard toward the end of the 5th season and shares a co-managerial position with Jim Halpert during a 6th season arc from \"The Meeting\" to \"Manager and Salesman\". In the end of the 7th season, he proposes to HR representative Holly Flax and moves to Colorado to take care of her aging parents, leaving the manager position to Deangelo Vickers in \"Goodbye, Michael\", to Andy Bernard in season 8, and ultimately to Dwight Schrute in season 9.",
+     "idStart": 1,
+     "idEnd": 131
+ },
+ {
+     "character": "Dwight Schrute",
+     "age": "35",
+     "aliases": ["D", "D-Money", "Gun Safety Dwight", "Recyclops", "Computron"],
+     "occupation": "Assistant to the Regional Manager",
+     "description": "Dwight Kurt Schrute III (born January 20, 1970) is one of the highest-ranking salesmen as well as the original assistant to the regional manager, and former Assistant Regional Manager at the paper distribution company Dunder Mifflin. Additionally, he is a bed-and-breakfast proprietor at Schrute Farms, a beet plantation owner, and an owner of the business park in which Dunder Mifflin exists. He is notorious for his lack of social skills and common sense, his love for martial arts and the justice system, and his office rivalry with fellow salesman Jim Halpert. He is also known for his romantic relationship with Angela Martin, head of the accounting department. He has at times risen to the position of acting Branch Manager of the Scranton branch, but often serves as a second or third in command as Assistant (to the) Regional Manager. While Dwight was a regional manager in the last few episodes of the series, he named himself the Assistant to the Assistant to the Regional Manager (A.A.R.M). Dwight was also the Vice President of Special Projects Development for the Sabre Corporation, which was the parent company of Dunder Mifflin at the time, but was soon replaced by Todd Packer, who was almost immediately terminated. In the final season, Dwight is offered the position of permanent Regional Manager.",
+     "idStart": 132,
+     "idEnd": 257
+ },
+ {
+     "character": "Creed Bratton",
+     "age": "80?",
+     "aliases": ["Old Man", "Jeff Bomondo", "Wacky Weed Tim", "Creed Burton", "William Charles Schneider"],
+     "occupation": "Quality Assurance",
+     "description": "Creed Rowland Bratton claims to have been born November 1, 1925. Confusion may arise from the fact that the character is played by and partially based on the musician of the same name, Creed Bratton. Unlike most characters of this version of The Office, he has no analog in the original BBC series despite sharing similar lines in the pilot episode with the character of Malcolm. B.J. Novak has said that the actual Creed Bratton is exactly like the character he plays, except that the real Creed is a good-hearted and likable person, while Bratton's character has a very dark side to him.",
+     "idStart": 258,
+     "idEnd": 270
+ },
+ {
+     "character": "Pam Beesly",
+     "age": "26",
+     "aliases": ["Little Miss Thing", "Pama-lama-ding-dong", "Beesly", "Christmas Pam", "Big Pregs"],
+     "occupation": "Receptionist",
+     "description": "Pamela Morgan \"Pam\" Halpert (née Beesly; born March 25, 1979) is initially the receptionist at the paper distribution company Dunder Mifflin, before becoming a saleswoman and eventually office administrator until she left in the series finale. Her character is shy, growing assertive but amiable, and artistically inclined, and shares a romantic interest with Jim Halpert, whom she begins dating in the fourth season, and eventually, marries and starts a family with as the series continues.",
+     "idStart": 271,
+     "idEnd": 276
+ },
+ {
+     "character": "Angela Martin",
+     "age": "31",
+     "aliases": ["Monkey", "Voodoo Mama Juju", "Pumpkin", "Booster Seat", "Little Onion"],
+     "occupation": "Senior Accountant",
+     "description": "Angela Noelle Schrute (née Martin, formerly Lipton; born November 11, 1974) is head of the Accounting department at Dunder Mifflin Scranton. She can often be cold and stern with others. Angela loves cats and owned several of them.",
+     "idStart": 277,
+     "idEnd": 279
+ },
+ {
+     "character": "Andy Bernard",
+     "age": "32",
+     "aliases": ["Nard Dog", "Boner Champ", "Funny Guy", "Walter Jr", "Baby Wawa"],
+     "occupation": "Regional Director of Sales",
+     "description": "Andrew Baines \"Andy\" Bernard (born Walter Baines Bernard Jr.; born January 24, 1973) is introduced as the Regional Director in Charge of Sales at the Stamford branch of paper distribution company Dunder Mifflin in the third-season premiere when Jim Halpert transfers, ultimately merging with the Scranton branch in the episode \"The Merger\" later in the season. He becomes Regional Manager at the Scranton branch courtesy of Robert California in the eighth-season premiere following the departure of Michael Scott and Deangelo Vickers, although temporarily is fired and replaced by Nellie Bertram before his reinstatement by new CEO David Wallace. Although throughout the ninth season, Andy's relationship with Wallace deteriorates from Andy's lack of focus and professionalism, eventually culminating in Andy's voluntary resignation, to his reinstatement as a salesman to his eventual firing again, after Andy's vulgar actions cause David Wallace to fire him, which he uses to his advantage in order to pursue a singing career. This all happens over the course of one day in \"Livin' the Dream\".",
+     "idStart": 280,
+     "idEnd": 282
+ },
+ {
+     "character": "Jim Halpert",
+     "age": "27",
+     "aliases": ["Big Tuna", "Halpert", "Jimothy", "Jimbo", "James Trickington"],
+     "occupation": "Sales Representative",
+     "description": "James \"Jim\" Halpert (born October 1, 1978) is introduced as a sales representative at the Scranton branch of paper distribution company Dunder Mifflin, before temporarily transferring to the Stamford branch in the third season. Upon the merger of Scranton and Stamford branches, he becomes Assistant Regional Manager, and later co-manager alongside Michael Scott during the sixth-season episode arc from \"The Promotion\" to \"Manager and Salesman\". His character serves as the intelligent, mild-mannered straight man role to Michael, although it is also defined by a rivalrous pranking on fellow salesman Dwight Schrute and a romantic interest in receptionist Pam Beesly, whom he begins dating in the fourth season, marries in the sixth, and has children with in the sixth and eighth. Jim's coworker, Andy Bernard, who transferred from the Stamford branch, often calls him by the nickname \"Big Tuna\".",
+     "idStart": 283,
+     "idEnd": 289
+ },
+ {
+     "character": "Kevin Malone",
+     "age": "37",
+     "aliases": ["Kev", "Chumbo", "Kool-Aid Man", "Papa Bear", "Cookie Monster"],
+     "occupation": "Accountant",
+     "description": "Kevin Malone (born June 1, 1968) is based on Keith Bishop, who shares Kevin's lack of communication skills, musical interest, and large size. Kevin is a part of the accounting department at Dunder Mifflin Scranton. The other accountants are Oscar Martinez and Angela Martin.",
+     "idStart": 290,
+     "idEnd": 290
+ },
+ {
+     "character": "Kelly Kapoor",
+     "age": "25",
+     "aliases": ["Kapoor"],
+     "occupation": "Customer Service Representative",
+     "description": "Kelly Rajnigandha Kapoor (केली रजनीगन्धा कपूर‌, Kelī Rajnīgandhā Kapūr), (born February 5, 1980) is the former Customer Service Representative at Dunder Mifflin/Sabre's Scranton Branch, but left for Ohio with her then-boyfriend, Ravi, in Season 9, therefore leaving Dunder Mifflin.",
+     "idStart": 291,
+     "idEnd": 294
+ },
+ {
+     "character": "Stanley Hudson",
+     "age": "54",
+     "aliases": ["Stanley the Manly", "Stan", "Florida Stanley", "Stankley", "Papa Bear"],
+     "occupation": "Sales Representative",
+     "description": "Stanley Hudson (born July 14, 1951) is a salesman at Dunder Mifflin Scranton and sits across from Phyllis Vance.",
+     "idStart": 295,
+     "idEnd": 298
+ }
+]
